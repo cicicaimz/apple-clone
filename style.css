@@ -265,3 +265,8 @@ header .container a {
   font-family: "Myriad Set Pro", "Helvetica Neue", "Helvetica", "Arial",
     sans-serif;
 }
+
+.footertext {
+ color: black;
+ text-decoration: none;
+}
